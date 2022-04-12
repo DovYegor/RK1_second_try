@@ -288,6 +288,8 @@ int main(int argc, char *argv[])
     cout << endl << endl;
     b = srznach(a, b, n, m);
 
+    cout << "Zadanie 8. Functsii realizovany vrode by";
+
     tempT();
     return mainprog.exec();
 }
