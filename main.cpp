@@ -290,7 +290,7 @@ int main(int argc, char *argv[])
 
     cout << "Zadanie 8. Functsii realizovany vrode by";
 
-    tempT();
+ //   tempT();
     return mainprog.exec();
 }
 
